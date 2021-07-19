@@ -13,5 +13,5 @@ Intermediate: R (dplyr, tidyr, ggplot2)
 
 Basic: SQL (MySQL), python (pandas, numpy, tensorflow), Julia (JuMP, Ipopt), Matlab, Power-BI
 
-Beginner: Shell
+Beginner: Shell, C++, Java
 
