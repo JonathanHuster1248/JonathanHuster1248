@@ -1,17 +1,14 @@
-Hello, my name is Jonathan (Jon) Huster. I'm currently pursuing a masters in energy resources engineering at Stanford University. 
-Professionally, I'm interested in energy, data, and modeling. Personally, I like playing boardgames, eating poke, and chilling with friends. 
+Hello, my name is Jonathan (Jon) Huster. I am a software engineer at Ascend Analytics. I have a background in energy from a Masters in Energy Resources Engineering at Stanford University. I am interested in energy systems, data science, and computer modeling.  
 
-My coding experiences have focused on data analysis and model building in R, particularly, developing features for GCAM, an economic energy model. 
-I am continuing to build my skills in R, SQL, and Power-BI though an internship at the Federal Energy Regulatory Commission. I am also
-attempting to learn some machine learning through online courses and independent study. 
+My coding experiences have focused on data analysis and model building. I have contributed to energy models in R and Python during my work at Pacific Northwest National Lab's Joint Global Change Research Institute and through my research with Ines Azevedo creating MACCPy. I am continuing to grow my repertoire by exploring personal projects in data science and automation ranging from predictive models for League of Legends (an online game I play in my free time) to creating a program to automate a grandfather clock. 
 
-Feel free to reach out if you're interested in collaborating on a research topic pertaining to energy and sustainability! 
+I am always interested in learing more and working with others, so feel free to reach out if you're interested in collaborating on a research topic pertaining to energy and sustainability! 
 
 Language Familiarity:
 
-Intermediate: R (dplyr, tidyr, ggplot2)
+Intermediate: Python (pandas, numpy, plotly), R (dplyr, tidyr, ggplot2)
 
-Basic: SQL (MySQL), python (pandas, numpy, tensorflow), Julia (JuMP, Ipopt), Matlab, Power-BI
+Basic: SQL (MySQL), Julia (JuMP, Ipopt), Matlab, Power-BI
 
 Beginner: Shell, C++, Java
 
